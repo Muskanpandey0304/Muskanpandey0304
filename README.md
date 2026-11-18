@@ -1,7 +1,7 @@
 # Hi, I'm Muskan Pandey 👋
 
 I build end-to-end AI and data projects: LLM inference engines, RAG systems, agent safety tooling, and SQL analytics.
-Based in Palghar, India. **Open to Junior AI Engineer, LLM Engineer, Data Scientist and Data Analyst roles.**
+**Open to Junior AI Engineer, LLM Engineer, Data Scientist and Data Analyst roles.**
 
 [LinkedIn](https://linkedin.com/in/muskan-pandey-84a90733b) · [Email](mailto:mpandey9385@gmail.com)
 
